@@ -40,6 +40,12 @@ module funct1(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
 assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
+endmodule
+ii)
+module funct2(w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2=((~y & z)|( w & y )|(x & y));
 endmodule'''
 
 
@@ -49,12 +55,15 @@ endmodule'''
 
 **RTL**
 ![Uploading Screenshot (11).png…]()
+![Screenshot (13)](https://github.com/user-attachments/assets/1177c979-6645-44b4-918d-b1102a4d063a)
 
 **Timing Diagram**
 ![Screenshot (12)](https://github.com/user-attachments/assets/de118542-875b-47bc-9bb6-f6926a4521fa)
+![Screenshot (14)](https://github.com/user-attachments/assets/f4a63d9b-16fb-4387-9e7d-6fc7a93d6864)
 
 **Output:**
 ![Uploading Screenshot (12).png…]()
+![Uploading Screenshot (14).png…]()
 
 **Result:**
 
