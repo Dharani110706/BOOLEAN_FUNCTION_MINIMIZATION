@@ -54,7 +54,8 @@ endmodule'''
 
 
 **RTL**
-![Uploading Screenshot (11).png…]()
+![funct1](https://github.com/user-attachments/assets/5a017b6d-7316-4811-86a7-6ec7d83dd318)
+
 ![Screenshot (13)](https://github.com/user-attachments/assets/1177c979-6645-44b4-918d-b1102a4d063a)
 
 **Timing Diagram**
