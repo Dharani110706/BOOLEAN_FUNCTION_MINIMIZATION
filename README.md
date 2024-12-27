@@ -51,7 +51,7 @@ F2
 
 Developed by: RegisterNumber:24900674 P.DHARANI SREE
 
-1.
+'''1.
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
@@ -63,7 +63,7 @@ module funct2(w,x,y,z,f2);
 input w,x,y,z;
 output f2;
 assign f2=((~y & z)|( w & y )|(x & y));
-endmodule
+endmodule'''
 
 **RTL**
   ![image](https://github.com/user-attachments/assets/0bbcd3cf-4cac-4e17-8a20-91785ee083c8)
