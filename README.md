@@ -23,9 +23,8 @@ Boolean function minimization is a process used in digital logic design to simpl
 
 2.	Compile and run the program.
 
-3.	Generate the RTL schematic and save the logic diagram.![image](https://github.com/user-attachments/assets/760d45fd-b4b7-4095-9fb7-e773d65a5c78)
-
-
+3.	Generate the RTL schematic and save the logic diagram.
+   
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
