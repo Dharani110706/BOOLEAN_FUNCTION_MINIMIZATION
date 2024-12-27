@@ -51,16 +51,6 @@ F2
 
 Developed by: RegisterNumber:24900674 P.DHARANI SREE
 
-
-
-
-
-
-
-**RTL**
-![funct1](https://github.com/user-attachments/assets/5a017b6d-7316-4811-86a7-6ec7d83dd318)
-
-![Screenshot (13)](https://github.com/user-attachments/assets/1177c979-6645-44b4-918d-b1102a4d063a)
 1.
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
@@ -74,6 +64,7 @@ input w,x,y,z;
 output f2;
 assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
+
 **RTL**
   ![image](https://github.com/user-attachments/assets/0bbcd3cf-4cac-4e17-8a20-91785ee083c8)
 ![image](https://github.com/user-attachments/assets/73d9179c-8371-4ef8-81d0-d3eba393c3aa)
