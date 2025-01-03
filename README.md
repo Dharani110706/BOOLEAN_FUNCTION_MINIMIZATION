@@ -61,13 +61,18 @@ endmodule
 ```
 
 **RTL**
-  ![image](https://github.com/user-attachments/assets/0bbcd3cf-4cac-4e17-8a20-91785ee083c8)
-  ![funct2](https://github.com/user-attachments/assets/fa6eddae-544c-4f83-8699-e19649915c0a)
+
+F1 
+![image](https://github.com/user-attachments/assets/0bbcd3cf-4cac-4e17-8a20-91785ee083c8)
+F2  
+![funct2](https://github.com/user-attachments/assets/fa6eddae-544c-4f83-8699-e19649915c0a)
 
 
 
 **Output**
+F1
 ![image](https://github.com/user-attachments/assets/a139d20c-5ebb-48bd-b4f1-04c76c5467b9)
+F2
 ![image](https://github.com/user-attachments/assets/0c559a90-d3a5-4028-8c2c-3ba6de73777f)
 
 
