@@ -36,38 +36,34 @@ F2
 ![image](https://github.com/user-attachments/assets/5f8db17d-7653-437a-8124-311a32380971)
 
 **Truthtable**
-1.F1
-
    
 ![image](https://github.com/user-attachments/assets/7afefff3-3cb0-41da-a8f3-2231ed0c9642)
-2.F2
-
-![image](https://github.com/user-attachments/assets/477d10de-d581-4ce1-8f63-89b4ac5cf1ff)
-
 
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: RegisterNumber:24900674 P.DHARANI SREE
-
-'''1.
+```
+F1
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
 assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
 endmodule
 
-2.
+F2
 module funct2(w,x,y,z,f2);
 input w,x,y,z;
 output f2;
 assign f2=((~y & z)|( w & y )|(x & y));
-endmodule'''
+endmodule
+```
 
 **RTL**
   ![image](https://github.com/user-attachments/assets/0bbcd3cf-4cac-4e17-8a20-91785ee083c8)
-![image](https://github.com/user-attachments/assets/73d9179c-8371-4ef8-81d0-d3eba393c3aa)
+  ![funct2](https://github.com/user-attachments/assets/fa6eddae-544c-4f83-8699-e19649915c0a)
+
 
 
 **Output**
